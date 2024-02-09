@@ -1,5 +1,5 @@
 
-                        Hi, I'm Sumit... 👋
+                                                                                          Hi, I'm Sumit... 👋
 
 
 
@@ -28,8 +28,6 @@ Selby Blogs is a platform for sharing insightful articles and blog posts on vari
 - Email Input Box
 - button functionality
 - Sliding Sidebar
-
-
 
 
 
@@ -74,6 +72,3 @@ Have questions, suggestions, or just want to say hi? Don't hesitate to reach out
 -Instagram: Share your moments with me [Sumit.Kadam.451](https://www.instagram.com/sumit.kadam.451/)
 
 Feel free to drop a message anytime! Looking forward to hearing from you.
-
-
-https://bento.me/sumit-linkfolio
