@@ -3,7 +3,6 @@
 
 <br>
 <br>
-<br>
 
 # Selby Blogs
 
@@ -12,7 +11,7 @@
 Selby Blogs is a platform for sharing insightful articles and blog posts on various topics, including technology, lifestyle, and more. This repository contains the source code for the Selby Blogs website.
 
 
-<br>
+
 <br>
 
 ## Features
@@ -26,7 +25,7 @@ Selby Blogs is a platform for sharing insightful articles and blog posts on vari
 - button functionality
 - Sliding Sidebar
 
-<br>
+
 <br>
 
 
@@ -37,7 +36,7 @@ Selby Blogs is a platform for sharing insightful articles and blog posts on vari
 - JavaScript
 - Figma
 
-<br>
+
 <br>
 
 ## Screenshots
@@ -48,7 +47,7 @@ Selby Blogs is a platform for sharing insightful articles and blog posts on vari
 
 ![App Screenshot](https://github.com/SumitKadam451/Selby_Blogs/blob/main/Screenshot_3.png)
 
-<br>
+
 <br>
 
 ## Demo
@@ -57,7 +56,7 @@ Check out the live demo of Selby Blogs
                                       [Selby_Blogs](https://sumitkadam451.github.io/Selby_Blogs/)
 
 
-<br> 
+
 <br>
 
 ## 🚀 About Me
