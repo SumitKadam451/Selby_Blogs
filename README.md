@@ -1,5 +1,5 @@
 
-                                                                                          Hi, I'm Sumit... 👋
+# Hi, I'm Sumit... 👋
 
 
 
@@ -51,13 +51,15 @@ Check out the live demo of Selby Blogs
 [Selby_Blogs](https://sumitkadam451.github.io/Selby_Blogs/)
 
 
+<br> 
+<br>
+
 ## 🚀 About Me
-I am Sumit a versatile tech enthusiast skilled in the
-
-👨‍💻 Web Developer 💻 |🎨 Web Designer 🎨| 
-
+I am Sumit a versatile tech enthusiast skilled in the 👨‍💻 Web Developer 💻 |🎨 Web Designer 🎨| 
 In my free time, I dabble in the world of Cybersecurity🔍 as a hobbyist Hacker👨‍💻
 
+<br> 
+<br>
 
 ## Get in Touch! 📩
 
