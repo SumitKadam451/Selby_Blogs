@@ -52,8 +52,7 @@ Selby Blogs is a platform for sharing insightful articles and blog posts on vari
 
 ## Demo
 
-Check out the live demo of Selby Blogs
-                                      [Selby_Blogs](https://sumitkadam451.github.io/Selby_Blogs/)
+Check out the live demo of [Selby_Blogs](https://selby-blogs.pages.dev/)
 
 
 
@@ -72,7 +71,7 @@ Have questions, suggestions, or just want to say hi? Don't hesitate to reach out
 
 -Email: SumitKadam451@gmail.com
 
--LinkedIn: Let's connect on [LinkedIn](https://www.linkedin.com/in/sumit-kadam-380190219/)
+-LinkedIn: Let's connect on [LinkedIn](https://www.linkedin.com/in/sumit-kadam-58b2102b2/)
 
 -LinkeFolio: Here's my [Bento! ](https://bento.me/sumit-linkfolio)
 
